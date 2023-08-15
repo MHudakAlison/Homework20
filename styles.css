@@ -1,0 +1,120 @@
+nav.inline-block{
+    background-color:silver; display:inline-block;
+    width:100%; 
+    height:50px;
+    clear:both; 
+    }
+    .navigation-ul{ 
+    padding-inline-start: 0px; 
+    padding-left:-15px;
+    padding-top:5px;
+    }
+    .inline-block ul li{
+    display:inline-block;
+    padding-right:50px;
+    padding-bottom:15px; 
+    
+    }
+    .logo{ 
+        padding:0px 0px;
+        float:left;
+        width: 40px; 
+        height:40px; 
+        }
+        li{
+            font-family:sans-serif; 
+            font-weight:bold;
+                }
+            .margarethudakdesigns{ 
+                font-size:16px; 
+                color:black;
+                margin-top:7px;
+                margin-left:20px;
+            }
+            .research{ 
+            float:right; 
+            font-size:22px;
+            color:black; 
+            
+            }
+            .testing{
+            float:right; 
+            font-size:22px; 
+            color:black; 
+            }
+            .iterations{ 
+            float:right; 
+            font-size:22px; 
+            color:black; 
+            
+            }
+            .prototype{ 
+            float:right; 
+            font-size:22px; 
+            color:black; 
+            }
+            .dhslogo{
+                padding:0px 0px;
+                width:30px; 
+                height:30px; 
+                }
+
+                .h1text{ 
+            float:inline-right;  
+            display:inline-block;
+            font-size:45px; 
+            color:black;
+            padding: 12px; 
+            margin-left:30px;
+            outline-color:white;
+            outline-width: 9px; 
+            padding-left: 1%; 
+            padding-right: 1%;
+            outline-style:groove;
+ 
+                }
+                .cardContainer{
+                display:inline-block;
+                width:-511px;
+                margin-left:-233px;
+                float: left; 
+                padding-top: 40px;
+                padding-right:10px;
+                padding-left: 10px;
+                padding-bottom:10px;
+                align-items:center;
+                justify-content:center;
+               margin-right:-3px;
+            
+                }
+                .row{
+                display:inline-block;
+                margin-left:10px;
+                width:fit-content;
+                align-items: center;
+                
+                
+                }
+                .card-body{
+                   display:inline-block; 
+                   align-items:center;
+                }
+
+                .card{
+                    display:inline-block;
+                    align-items:center;
+                }
+                .learnmore{ 
+                    display:block;
+                    width:400px;
+                    margin:0 auto;
+                    padding: 10px 20px; 
+                    text-align:center;
+
+                }
+                .card-title{
+                margin:0 auto; 
+                text-align:center;
+    
+               
+                }
